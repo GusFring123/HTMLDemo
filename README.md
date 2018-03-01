@@ -1,2 +1,2 @@
 # HTMLDemo
-som demo about HTML
+some demo about HTML
